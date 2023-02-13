@@ -9,6 +9,16 @@ Feedstock license: [BSD-3-Clause](https://github.com/jdblischak/m2w64-htslib-fee
 
 Summary: C library for high-throughput sequencing data formats.
 
+Development: https://github.com/TileDB-Inc/m2w64-htslib-build
+
+Documentation: http://www.htslib.org/
+
+The conda binary m2w64-htslib bundles a pre-built htslib binary that was
+built under msys2. All dependencies are statically linked, with the
+exception of .DLLs provided by Windows. It is suitable for linking against
+in conda recipes that build using MSVC
+
+
 Current build status
 ====================
 
@@ -123,4 +133,8 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@dhoke4tdb](https://github.com/dhoke4tdb/)
+* [@ihnorton](https://github.com/ihnorton/)
+* [@jdblischak](https://github.com/jdblischak/)
+* [@shelnutt2](https://github.com/shelnutt2/)
 

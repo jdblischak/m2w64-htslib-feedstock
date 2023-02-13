@@ -28,6 +28,13 @@ about:
   summary: C library for high-throughput sequencing data formats.
   license: MIT
   license_file: LICENSE
+  dev_url: https://github.com/TileDB-Inc/m2w64-htslib-build
+  doc_url: http://www.htslib.org/
+  description: |
+    The conda binary m2w64-htslib bundles a pre-built htslib binary that was
+    built under msys2. All dependencies are statically linked, with the
+    exception of .DLLs provided by Windows. It is suitable for linking against
+    in conda recipes that build using MSVC
 
 extra:
   recipe-maintainers:

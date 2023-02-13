@@ -28,3 +28,10 @@ about:
   summary: C library for high-throughput sequencing data formats.
   license: MIT
   license_file: LICENSE
+
+extra:
+  recipe-maintainers:
+    - dhoke4tdb
+    - ihnorton
+    - jdblischak
+    - shelnutt2

@@ -1,6 +1,6 @@
 channel_sources:
 - conda-forge
 channel_targets:
-- jdblischak main
+- tiledb main
 target_platform:
 - win-64

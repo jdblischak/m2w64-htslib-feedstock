@@ -3,9 +3,11 @@ pin_run_as_build:
   m2w64-htslib:
     max_pin: x.x
 
-
 m2w64_htslib:
   - 1.15.1
 
 channel_sources:
   - conda-forge
+
+channel_targets:
+  - jdblischak main

@@ -1,6 +1,6 @@
 channel_sources:
 - conda-forge
 channel_targets:
-- conda-forge main
+- jdblischak main
 target_platform:
 - win-64

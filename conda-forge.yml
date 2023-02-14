@@ -13,4 +13,6 @@ provider:
   win_64: azure
 skip_render:
   - LICENSE.txt
-upload_on_branch: main
+upload_on_branch:
+  - main
+  - jdblischak

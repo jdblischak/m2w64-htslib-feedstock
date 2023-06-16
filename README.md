@@ -1,11 +1,11 @@
-About m2w64-htslib
-==================
+About m2w64-htslib-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/TileDB-Inc/m2w64-htslib-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/samtools/htslib
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/TileDB-Inc/m2w64-htslib-feedstock/blob/main/LICENSE.txt)
 
 Summary: C library for high-throughput sequencing data formats.
 
@@ -30,8 +30,8 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-            <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/m2w64-htslib-feedstock?branchName=main">
+          <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=46&branchName=main">
+            <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/m2w64-htslib-feedstock?branchName=main">
           </a>
         </summary>
         <table>
@@ -39,8 +39,8 @@ Current build status
           <tbody><tr>
               <td>win_64</td>
               <td>
-                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/m2w64-htslib-feedstock?branchName=main&jobName=win&configuration=win%20win_64_" alt="variant">
+                <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=46&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/m2w64-htslib-feedstock?branchName=main&jobName=win&configuration=win%20win_64_" alt="variant">
                 </a>
               </td>
             </tr>

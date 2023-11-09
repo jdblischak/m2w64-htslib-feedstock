@@ -1,10 +1,5 @@
 azure:
   store_build_artifacts: True
-channels:
-  sources:
-    - conda-forge
-  targets:
-    - ["tiledb", "main"]
 github:
   user_or_org: TileDB-Inc
   branch_name: main

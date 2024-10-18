@@ -1,6 +1,6 @@
-{% set version = "1.20" %}
+{% set version = "1.21" %}
 {% set release = "0" %}
-{% set sha256 = "b1450f4743227c33b8ffb2d509a56697ece195db897004091149bb6a24eae3a9" %}
+{% set sha256 = "c8770ec7683fe1ca18b00bb76dac09e684da8733efbc15c05075364597a4d596" %}
 {% set so = "3" %}
 
 package:
@@ -43,3 +43,4 @@ extra:
     - ihnorton
     - jdblischak
     - shelnutt2
+    - teo-tsirpanis

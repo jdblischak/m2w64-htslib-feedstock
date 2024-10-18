@@ -137,4 +137,5 @@ Feedstock Maintainers
 * [@ihnorton](https://github.com/ihnorton/)
 * [@jdblischak](https://github.com/jdblischak/)
 * [@shelnutt2](https://github.com/shelnutt2/)
+* [@teo-tsirpanis](https://github.com/teo-tsirpanis/)
 
